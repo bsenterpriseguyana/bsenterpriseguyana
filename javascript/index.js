@@ -57,7 +57,7 @@
       icon: "fa-scale-balanced",
       desc: "Laws of Guyana is an independent, educational mobile app that provides the full text of Guyana Acts of Parliament for online use. It is designed for legal professionals, students, researchers, and anyone needing reliable access to Guyanese legislation in classrooms. This disclaimer states that the app is an independent educational tool with no official connection to the Government of Guyana, Parliament, or Ministry of Legal Affairs. Its legal content comes from public official sources like the Ministry of Legal Affairs website and published Acts of Parliament. While the developer tries to keep information accurate, the app is not legal advice and the developer is not liable for how the information is used. For official legal matters, users should consult the Official Gazette or the Ministry of Legal Affairs directly.",
       driveId: "1_Wro875kadaq5sjaeyls--6gfnrlcMT-",
-      apkFile: "apk/LawsofGuyanaOnline.apk",
+      apkFile: "https://drive.google.com/file/d/1SaHJ7CJ9wlJOVyBauNsBw8oO2Ggpb2ZA/view?usp=sharing",
       sourcePrice: "Free",
       itchLink: "https://bs-enterprise-guyana.itch.io/laws-of-guyana-online",
       apkpureLink: "https://apkpure.com/p/com.bsent.lawsofguyana_online"
